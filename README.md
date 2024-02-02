@@ -1,2 +1,2 @@
 # alex_bevier
-Hello! This is a collection of code chunks written by mean for a various amount of projects. Projects include data scraping, page rank algorithms, and data frame manipulation. Please contact me at abevier@umich.edu if you have any questions! 
+Hello! This is a collection of code chunks written by mean for a various amount of projects. Projects include data scraping, page rank algorithms, and data frame manipulation. The most current projects I've done are in the labeled folders in the main branch, while miscellaneous past projects are stored in sub-branches. Please contact me at abevier@umich.edu if you have any questions! 
